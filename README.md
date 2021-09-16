@@ -1,4 +1,4 @@
-# Builder Pattern
+# Singleton Pattern
 O que é o Singleton Pattern ?
 Singleton é um padrão criacional que permite garantir que usaremos sempre a mesma instância de uma classe, normalmente é utilizado para gerenciamento de recursos.
 
